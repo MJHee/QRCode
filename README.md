@@ -6,4 +6,6 @@
 ### 2、选择相册中的二维码识别二维码
 
 # 效果图如下：
+![image](http://o9zpq25pv.bkt.clouddn.com/2017-03-20%2011_49_28.gif)
 ![image](http://oauo2kp7f.bkt.clouddn.com/QRCode.gif)
+
