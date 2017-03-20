@@ -6,4 +6,4 @@
 ### 2、选择相册中的二维码识别二维码
 
 # 效果图如下：
-[!img](http://oauo2kp7f.bkt.clouddn.com/QQ20170318-175357-HD.gifcask)
+[!http://oauo2kp7f.bkt.clouddn.com/QQ20170318-175357-HD.gifcask]
